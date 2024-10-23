@@ -11,8 +11,8 @@ It has not been tested with any other resources.
 ## Installation
 Each folder has the CSS code for each website, the title being the website it is used for.
 
-In the Editor for [Stylish](https://userstyles.org/), set the domain as the title of the file
-And paste the CSS Code into the code editor.
+In the Editor for [Stylish](https://userstyles.org/), set the domain using the guide below
+And paste the associated CSS Code into the code editor.
 
 ## Optimizations
 
