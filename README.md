@@ -6,21 +6,25 @@ Make certain websites remble the style of the game "Needy Streamer Overload"/"Ne
 
 ## Usage
 
-These themes are optimized to be used with the Chrome Extension [Stylish](https://userstyles.org/)
+These themes are optimized to be used with the Chrome Extension [Stylebot]([https://userstyles.org/](https://stylebot.dev/))
 It has not been tested with any other resources.
 
 ## Installation
-Each folder has the CSS code for each website, the title being the website it is used for.
 
-In the Editor for [Stylish](https://userstyles.org/), set the domain using the guide below
-And paste the associated CSS Code into the code editor.
+Open the 'Styles' tab after installing the [Stylebot]([https://userstyles.org/](https://stylebot.dev/)) extension
+Click 'Add a new style...'
+Use the guide below to set the URL
+Then paste the provided code in the box.
 
-## Optimizations
+## Websites
 
 There are currently themes for
 
- - **Spotify** (WORK IN PROGRESS)
-	 - open.spotify.com
+**Spotify** (WORK IN PROGRESS)
+https://open.spotify.com/
+```
+@import url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Spotify.css)
+```
  - **YouTube**
 	 - www.youtube.com
  - **Google Classroom**
