@@ -223,10 +223,93 @@
     background: transparent;
 }
 
+span.encore-text.encore-text-body-small-bold.encore-internal-color-text-base {
+    color: white;
+}
+
 ._WZEvLWCKIvdsvaCs6x5 {
     padding-left: 0.8rem;
     padding-bottom: 0.1rem;
 }
+
+.tp8rO9vtqBGPLOhwcdYv, #creator-link{
+    color: var(--purple);
+}
+.encore-internal-color-text-subdued {
+    color: var(--purple);
+}
+.poz9gZKE7xqFwgk231J4 {
+    color: var(--purple);
+    white-space: nowrap;
+}
+.encore-text-body-small, .encore-text-body-small-bold {
+    color: var(--purple);
+}
+.encore-text-body-small-bold {
+    color: var(--purple);
+}
+.encore-text-title-small {
+    color: var(--purple);
+}
+.NCKSUYdZaTMrobq8ilkc{
+    color:var(--purple)
+}
+.jpVuvMOCbpaRr_6FLf3W {
+    color: var(--purple);
+}
+.T1xI1RTSFU7Wu94UuvE6{
+    border-color: #4d21cb;
+    border-style: solid;
+    border-width: 4.5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.rovbQsmAS_mwvpKHaVhQ{
+    margin-bottom: 2px;
+}
+.facDIsOQo9q7kiWc4jSg {
+    margin: 7px;
+    width: 98.8%;
+}
+.EvIR4O7jOSbNmxtMdIQ0 {
+    background-color: transparent;
+}
+.G7zO58ORUHxcUw0sXktM {
+    color: var(--purple) !important;
+    overflow: hidden;
+    padding: 10px;
+    text-overflow: ellipsis;
+    text-wrap: nowrap !important;
+}
+.T1xI1RTSFU7Wu94UuvE6 {
+    background-color: var(--winhead);
+}
+.PkOz5g82CaoKk1J3GX0e, .yhlH4Dsjqw56Z58EOwvQ{
+    visibility: hidden;
+}
+.PeLrpasyfBW8ql_bmoAi {
+    background-color: var(--winhead) !important;
+    border-color: #4d21cb;
+    border-style: solid;
+    border-width: 4.5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.main-view-container__mh-footer-container {
+    visibility: hidden;
+    background-color: var(--background-base);
+    padding-top: 40px;
+}
+.main-view-container__scroll-node.main-view-container__scroll-node--offset-topbar{
+   border-color: #4d21cb;
+    border-style: solid;
+    border-width: 7px;
+    outline-color: #90f3e1;
+    outline-offset: -5px;
+    outline-style: solid;
+    background-color: var(--winbody); 
 
 .Z35BWOA10YGn5uc9YgAp .Tzzq1pG_inwo_oSOdyjb .EzRmGRncgnv1zFgF4dqE {
     color: var(--purple);
