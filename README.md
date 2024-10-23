@@ -1,4 +1,5 @@
 
+
 # Needy Streamer Overload Web Theme
 
 Make certain websites remble the style of the game "Needy Streamer Overload"/"Needy Girl Overdose"
@@ -18,6 +19,9 @@ And paste the associated CSS Code into the code editor.
 
 There are currently themes for
 
- - [Spotify](open.spotify.com) (WORK IN PROGRESS)
- - [YouTube](www.youtube.com)
- - [Google Classroom](classroom.google.com)
+ - **Spotify** (WORK IN PROGRESS)
+	 - open.spotify.com
+ - **YouTube**
+	 - www.youtube.com
+ - **Google Classroom**
+	 - classroom.google.com
