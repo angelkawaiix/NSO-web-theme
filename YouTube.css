@@ -1,6 +1,6 @@
 ﻿@font-face {
     font-family: "Zpix";
-    src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
+    src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/main/resources/zpix.woff2");
 }
 
 
@@ -115,7 +115,7 @@ ytd-topbar-logo-renderer {
 }
   
 #logo-icon {
-    content: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/haisin%20(1).png?raw=true) !important;
+    content: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/liveico.png?raw=true) !important;
     width: 100px;
     object-fit: contain;
     padding-left: 2px;
@@ -161,7 +161,7 @@ body {
 
 
 #logo-icon {
-    content: url("https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/haisin%20(1).png?raw=true") !important;
+    content: url("https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/liveico.png?raw=true") !important;
     width: 100px;
     object-fit: contain;
     padding-left: 2px;
