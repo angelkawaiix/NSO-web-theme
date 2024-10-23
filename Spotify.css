@@ -19,6 +19,10 @@
     --background-elevated-press:var(--winbody);
   --text-bright-accent: var(--purple);
   --text-subdued: var(--purple);
+  --background-tinted-base: none;
+    --background-tinted-highlight: none;
+    --background-highlight: none;
+    --background-tinted-press: none;
 }
 
 
@@ -51,6 +55,31 @@
 	height: 2.2rem;
 	object-fit: contain;
 	padding-left: 2px;
+}
+
+button.Button-sc-1dqy6lx-0.kTFJuL.encore-text-body-medium-bold.KAq2kDjXj2VS4eXrFL4i {
+    background-color: transparent !important;
+}
+
+a.Button-sc-qlcn5g-0.heiitI.encore-text-body-small-bold {
+    visibility: hidden;
+}
+
+.b7r2WRiu5f9Q99qmyreh:hover .CVuGEUIxLkNKpMds8AFS {
+    background: transparent;
+    box-shadow: none;
+}
+
+.b7r2WRiu5f9Q99qmyreh>:last-child {
+    visibility: hidden;
+}
+
+.b7r2WRiu5f9Q99qmyreh .CVuGEUIxLkNKpMds8AFS {
+    background: transparent;
+}
+
+.cKplys {
+    color: var(--purple);
 }
 
 .wp7mZFPzV7Qmo51F0NA_ .ETjtwGvAB4lRVqSzm8nA {
