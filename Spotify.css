@@ -228,10 +228,6 @@
     padding-bottom: 0.1rem;
 }
 
-#context-item-info-title{
-    color: var(--purple)
-}
-
 .Z35BWOA10YGn5uc9YgAp .Tzzq1pG_inwo_oSOdyjb .EzRmGRncgnv1zFgF4dqE {
     color: var(--purple);
 }
@@ -240,60 +236,17 @@
     color: var(--purple);
 }
 
-.KAZD28usA1vPz5GVpm63.EHxL6K_6WWDlTCZP6x5w:after {
-    color: var(--purple);
-}
-
-.KAZD28usA1vPz5GVpm63.RK45o6dbvO1mb0wQtSwq {
-    color: var(--purple);
-}
-
-.DZJJ5SCypi2mREbjy5bx, [data-playing-indicator], .Z35BWOA10YGn5uc9YgAp .Kcb74zm1aMqGfPxTwO5s .jxXIarsEHgz2HoaVCVzA {
+.Z35BWOA10YGn5uc9YgAp .Kcb74zm1aMqGfPxTwO5s .jxXIarsEHgz2HoaVCVzA {
     object-fit: contain;
-
     height: 20px !important;
     width: 20px !important;
     content: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/Badge.png?raw=true);
     position: absolute;
 }
 
-.TywOcKZEqNynWecCiATc {
-    --is-active-fg-color: var(--purple);
-}
-
-.JG5J9NWJkaUO9fiKECMA {
-    background-color: var(--winhead);
-}
-
-span.encore-text.encore-text-body-small-bold.encore-internal-color-text-base {
-    color: white;
-}
-
-.DZJJ5SCypi2mREbjy5bx, [data-playing-indicator]{
-     right: 1px;
-}    
-
-.vDev2BqBHloweL24GNHK .yvZooOj0rpfRS__cAUCo {
-    background-color: var(--winhead);
-    box-shadow: none;
-}
-
 .Sm3POgzbjs7wFj7tyYNh .pdLDCowVOiUIfeu9hihi {
     --encore-cards-margin: 0;
 }
-
-.HjPqU_UW2egr14mRSom9{
-    background-color: var(--winhead);}
-}
-
-.HjPqU_UW2egr14mRSom9, .yvZooOj0rpfRS__cAUCo {
-    border-color: #4d21cb;
-    border-style: solid;
-    border-width: 4.5px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-background-color: var(--winhead);}
 
 
 .NXBXbVfJboNI6xdrNIDB, .vZSm_8xsDxBqMzp1tqmn{
