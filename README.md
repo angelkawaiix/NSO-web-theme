@@ -12,10 +12,10 @@ It has not been tested with any other resources.
 
 ## Installation
 
-Open the 'Styles' tab after installing the [Stylebot]([https://userstyles.org/](https://stylebot.dev/)) extension
-Click 'Add a new style...'
-Use the guide below to set the URL
-Then paste the provided code in the box.
+Download the .json file
+Open the 'Sync' tab after installing the [Stylebot]([https://userstyles.org/](https://stylebot.dev/)) extension
+Select 'Import'
+Upload your file
 
 ## Websites
 
@@ -23,22 +23,3 @@ There are currently themes for
 - Spotify (WORK IN PROGRESS)
 - YouTube
 - Google Classroom
-
-### **Spotify** (WORK IN PROGRESS)
-
-https://open.spotify.com/
-```
-@import url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Spotify.css)
-```
-### **YouTube**
-
-https://www.youtube.com/
-```
-@import  url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/YouTube.css)
-```
-### **Google Classroom**
-
-https://classroom.google.com/
-```
-@import  url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Google%20Classroom.css)
-```
