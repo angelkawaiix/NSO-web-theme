@@ -1,0 +1,275 @@
+﻿@font-face {
+    font-family: "Zpix";
+    src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
+}
+
+
+
+
+
+
+* {
+font-family: 'Zpix' !important ;
+border-radius: 0px !important;
+}
+
+
+body {
+  color: #4d21cb;
+  font-size: 1rem;
+}
+
+
+.Aopndd {
+  background-color: #efcfef;
+}
+
+
+.apFsO.onkcGd,
+.apFsO.onkcGd:visited {
+  color: #4d21cb;
+}
+
+
+.asQXV {
+  color: #4d21cb;
+  font-size: 1rem;
+}
+
+
+.B7SYid {
+  color: #4d21cb;
+}
+
+
+.d4Fe0d {
+  background-color: #efcfef;
+  border-color: #4d21cb;
+  border-radius: 0;
+  border-style: solid;
+  border-width: 7px;
+  margin-right: 1.5rem;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+  padding-left: 1.5rem;
+  padding: 1rem;
+}
+
+
+.Du1LZe {
+  padding: 20px;
+  width: max-content;
+}
+
+
+.ez2f3 .bFjUmb-Wvd9Cc.Fh209b,
+.ez2f3.bFjUmb-Wvd9Cc.Fh209b {
+  background-color: #b09dbc;
+}
+
+
+.GDXFIe {
+  margin-left: 10rem;
+}
+
+
+.hN1OOc.eumXzf::after {
+  border-color: #4d21cb;
+}
+
+
+.IqBfM {
+  background-image: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/Needy_Girl_Overdose_Desktop_BG%20By%20EquiNox_86.png?raw=true);
+}
+
+
+.joJglb {
+  background: transparent;
+  border-bottom: none;
+  width: 100%;
+}
+
+
+.JwPp0e {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 10rem;
+  padding-top: 1.5rem;
+}
+
+
+.ksBjEc {
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.0107142857em;
+  text-transform: none;
+}
+
+
+.ksBjEc.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled),
+.ksBjEc:active:not(:disabled),
+.ksBjEc:hover:not(:disabled),
+.ksBjEc:not(.VfPpkd-ksKsZd-mWPk3d):focus:not(:disabled) {
+  color: #4d21cb;
+}
+
+
+.Tabkde .OX4Vcb {
+    width: 19.5rem;
+}
+
+
+
+
+.ksBjEc:not(:disabled) {
+  color: #4d21cb;
+}
+
+
+.Mtd4hb {
+  background-color: #efcfef;
+  border-color: #4d21cb;
+  border-style: solid;
+  border-width: 7px;
+  justify-content: flex-end;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+  padding-right: 0.5rem;
+}
+
+
+.mwJvDe .KEDCCd {
+  background-color: transparent;
+  border-bottom: none;
+  float: right;
+}
+
+
+.n4xnA {
+  background-color: #cce4fc;
+}
+
+
+.NMm5M {
+  fill: #4d21cb;
+}
+
+
+.oBSRLe {
+  color: #4d21cb;
+}
+
+
+.oh9CFb {
+  background-color: #cce4fc;
+  padding: 0 0.5rem 1rem 1.5rem;
+}
+
+
+.QRiHXd {
+  margin-right: 10px;
+}
+
+
+.R2tE8e {
+  margin: 0 1rem;
+  width: 60rem;
+}
+
+
+.Sgw65b {
+  background-image: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/JINEBG.png?raw=true);
+  border-color: #4d21cb;
+  border-style: solid;
+  border-width: 7px;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+}
+
+
+.sw3lj {
+  box-shadow: none;
+}
+
+
+.Tabkde {
+  border-right: transparent;
+}
+
+
+.Tabkde .OX4Vcb {
+  background-image: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/internet_base.png?raw=true);
+  border-color: #4d21cb;
+  border-style: solid;
+  border-width: 7px;
+  margin: -8px;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+}
+
+
+.TeZa2e {
+  background-color: #efcfef;
+  border-color: #4d21cb;
+  border-style: solid;
+  border-width: 7px;
+  margin-left: 2rem;
+  margin-top: 15px;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+}
+
+
+.UAJaRc {
+  height: 0px;
+  visibility: hidden;
+}
+
+
+.wZTANe .J1raN {
+  color: #4d21cb;
+}
+
+
+.dDKhVc {
+    color: #4d21cb;
+}
+
+
+.A6dC2c-J3yWx {
+    color: #4d21cb;
+}
+
+
+.EZrbnd {
+    color: #4d21cb;
+}
+
+
+.rpo4wf-J3yWx {
+    color: #4d21cb;
+}
+
+
+.XIpEib {
+  background-color: #efcfef;
+  border-color: #4d21cb;
+  border-style: solid;
+  border-width: 7px;
+  height: 3rem;
+  margin: 10px;
+  outline-color: #90f3e1;
+  outline-offset: -5px;
+  outline-style: solid;
+  padding-left: 1.5rem;
+}
+
+
+.XIpEib {
+    width: 30rem;
+}

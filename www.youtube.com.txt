@@ -1,0 +1,210 @@
+﻿@font-face {
+    font-family: "Zpix";
+    src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
+}
+
+
+
+
+* {
+    font-family: 'Zpix' !important;
+        color: #4d21cb !important;
+        border-radius: 0px !important;
+}
+
+
+ytd-comments {
+    display: block;
+        padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+        background-color: #fef0ff;
+        outline-color: #fae9fc;
+    outline-style: solid;
+    outline-width: 2px;
+}
+
+
+style-scope ytd-searchbox. .country-code, #country-code.ytd-topbar-logo-renderer {
+    visibility: hidden;
+}
+
+
+#author-thumbnail.ytd-comment-simplebox-renderer. #avatar.ytd-video-owner-renderer, ytd-thumbnail #thumbnail.ytd-thumbnail, #author-thumbnail.ytd-comment-view-model yt-img-shadow.ytd-comment-view-model {
+    overflow: unset;
+}
+
+
+#search-icon-legacy.ytd-searchbox {
+    border: #fae9fc;
+    background-color: #fae9fc;
+    border-radius: 0 40px 40px 0;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+
+
+#description.ytd-watch-metadata, #chat-messages.yt-live-chat-renderer,
+#contents.yt-live-chat-renderer,
+#item-list.yt-live-chat-renderer, yt-live-chat-text-message-renderer[author-is-owner], .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal {
+    background-color: #fef0ff;
+}
+
+
+.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--segmented-start {
+    position: relative;
+}
+
+
+yt-dropdown-menu .yt-dropdown-menu[style-target=label-text] {
+    color: #4d23cf;
+}
+
+
+#header.ytd-item-section-renderer {
+    background-color: white;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 20px;
+}
+
+
+ytd-comments-header-renderer {
+    --paper-input-container-input-align: baseline;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: var(--comments-header-renderer-margin-bottom, 32px);
+    display: flexbox;
+    display: flex;
+    flex-direction: column;
+}
+
+
+ytd-app {
+    background: #fff8ff;
+}
+
+
+#masthead-container.ytd-app {
+    margin: 10px;
+    position: absolute;
+        background-color: #ffffff;
+}
+
+
+.yt-spec-icon-shape {
+    fill: #f7e1fb;
+} 
+
+
+.yt-core-attributed-string--white-space-pre-wrap {
+    color: #527ce7 !important;
+}
+
+
+#background.ytd-masthead {
+    height: 40px;
+}
+
+
+ytd-topbar-logo-renderer {
+    width: 0%;
+}
+  
+#logo-icon {
+    content: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/haisin%20(1).png?raw=true) !important;
+    width: 100px;
+    object-fit: contain;
+    padding-left: 2px;
+}
+
+
+#container.ytd-searchbox {
+    border: 1px solid #f7e1fb;
+    border-right: none;
+    box-shadow: none;
+    flex: 1;
+    flex-basis: 0.000000001px;
+    display: flexbox;
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+
+
+
+
+body {
+    color: #4d21cb;
+}
+
+
+#center.ytd-masthead {
+    flex: 0 1 1500px;
+    min-width: 0;
+    display: flexbox;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+#voice-search-button.ytd-masthead {
+    border-radius: 100px;
+    visibility: hidden;
+    margin-left: 12px;
+    background-color: var(--yt-spec-additive-background);
+}
+
+
+#logo-icon {
+    content: url("https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/haisin%20(1).png?raw=true") !important;
+    width: 100px;
+    object-fit: contain;
+    padding-left: 2px;
+}
+
+
+ytd-topbar-logo-renderer {
+    width: 0%;
+}
+
+
+#search-icon-legacy.ytd-searchbox:hover {
+    border-color: #f7e1fb;
+    background-color: #f7e1fb;
+    box-shadow: none;
+}
+
+
+yt-formatted-string.title.style-scope.ytd-guide-entry-renderer #text,
+yt-formatted-string#guide-section-title.style-scope.ytd-guide-section-renderer #text,
+div#title.style-scope.ytd-rich-metadata-renderer #text,
+span.yt-core-attributed-string.YtwAdAvatarLockupViewModelHostTextsStyleCompactHeadlineWidthUnlocked.yt-core-attributed-string--white-space-pre-wrap {
+}
+
+
+html[darker-dark-theme], [darker-dark-theme] [light] {
+    --yt-spec-text-primary: #4d21cb;
+    --yt-spec-text-primary-inverse: #fff;
+}
+
+
+html,
+grammarly-desktop-integration,
+div.grammarly-desktop-integration,
+div.grammarly-desktop-integration::before {
+}
+
+
+#channel-name.ytd-video-owner-renderer {
+    color: #4d21cb;
+}
+
+
+#container.ytd-masthead, #masthead-container.ytd-app {
+    height: 40px;
+}
