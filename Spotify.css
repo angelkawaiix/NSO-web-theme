@@ -105,15 +105,34 @@
 
 .jEMA2gVoLgPQqAFrPhFw {
     overflow: hidden;
+    background-color: transparent;
 }
 
 .bJSfgC button, .bJSfgC a, .bJSfgC [role="button"], .bJSfgC [role="link"] {
     color: var(--purple) !important;
 }
 
+.DXJIVl0qgWOfcIK6Mc5Y, .cZrkCxXnCc7KLZqAqWoz {
+    padding-top: 0;
+    margin-top: -50px;
+}
+
+.GOcsybnoHYyJGQGDRuwj {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.a2NTH51fJWzWsds0OYv_:after {
+    background: transparent;
+}
+
 ._WZEvLWCKIvdsvaCs6x5 {
     padding-left: 0.8rem;
     padding-bottom: 0.1rem;
+}
+
+.Z35BWOA10YGn5uc9YgAp .Tzzq1pG_inwo_oSOdyjb .EzRmGRncgnv1zFgF4dqE {
+    color: var(--purple);
 }
 
 .encore-internal-color-text-base {
