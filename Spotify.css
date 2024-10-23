@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Zpix";
-	src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
+	src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/main/resources/zpix.woff2");
 }
 
 * {
@@ -18,7 +18,7 @@
 
 /*windose background*/
 .ZQftYELq0aOsg6tPbVbV{
-	background-image: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/Needy_Girl_Overdose_Desktop_BG%20By%20EquiNox_86.png?raw=true);
+	background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/windosebg.png?raw=true);
 }
 
 /*window border over everything*/
@@ -36,7 +36,7 @@
 
 .nmAHq8nfXRtoQmKU1gaF,
 .pIM9jg__39NIpOvXG89b {
-	content: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/Spotify.png?raw=true) !important;
+	content: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/spotifyico.png?raw=true) !important;
 	height: 2.2rem;
 	object-fit: contain;
 	padding-left: 2px;
