@@ -10,6 +10,11 @@
 	--cyan: #90f3e1;
 }
 
+* {
+	font-family: 'Zpix' !important;
+	border-radius: 0px !important;
+}
+
 .encore-dark-theme, .encore-dark-theme .encore-base-set {
   --text-base: var(--purple);
   --background-base: var(--winbody);
@@ -25,10 +30,10 @@
     --background-tinted-press: none;
 }
 
-
-* {
-	font-family: 'Zpix' !important;
-	border-radius: 0px !important;
+.encore-dark-theme .encore-inverted-light-set {
+    --background-base: transparent;
+        --background-highlight: transparent;
+    --text-base: var(--purple);
 }
 
 /*windose background*/
@@ -37,7 +42,7 @@
 }
 
 /*window border over everything*/
-#global-nav-bar, #Desktop_LeftSidebar_Id, .JG5J9NWJkaUO9fiKECMA, .jEMA2gVoLgPQqAFrPhFw, .OTfMDdomT5S7B5dbYTT8, #lyrics-cinema {
+#global-nav-bar, #Desktop_LeftSidebar_Id, .JG5J9NWJkaUO9fiKECMA, .jEMA2gVoLgPQqAFrPhFw, .OTfMDdomT5S7B5dbYTT8, #lyrics-cinema, #component-shelf {
     border-color: #4d21cb;
     border-style: solid;
     border-width: 7px;
@@ -45,6 +50,63 @@
     outline-offset: -5px;
     outline-style: solid;
     margin: 0.1rem;
+}
+
+/*center*/
+.S4OmZ_IZexmZ5dasPqW5{
+    visibility:hidden;
+}
+
+.Z35BWOA10YGn5uc9YgAp .zXwER4Lsqq_e7fVVaPkZ {
+    box-shadow: none;
+}
+
+.ZLSAuA1tn0bSdQRwhhj6.contentSpacing {
+    margin-top: 10px;
+}
+
+.KjPUGV8uMbl_0bvk9ePv.J4qD2RoZgGLbOdpfs63w {
+    padding-top: 3px;
+}
+
+.LVMjmN2CaPruPAo62RAY.HXlt7CQ7uXgHZ9UKA4tS {
+    padding-inline: 1rem;
+}
+
+.hIFR8WDm_54EEIa1gwpC{
+    border-color: #4d21cb;
+    border-style: solid;
+    border-width: 4.5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.LVMjmN2CaPruPAo62RAY {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: stretch;
+    padding-top: 1rem;
+    background: transparent;
+    height: 3rem;
+    overflow: hidden;
+    padding: 0 var(--content-spacing);
+    border-bottom-color: var(--purple);
+    border-bottom-width: 7px;
+    align-content: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.hIFR8WDm_54EEIa1gwpC.fIvMht6B9HdROywMNJZ4:after {
+    background-color: transparent;
 }
 
 /*global nav bar*/
@@ -56,6 +118,8 @@
 	object-fit: contain;
 	padding-left: 2px;
 }
+
+
 
 button.Button-sc-1dqy6lx-0.kTFJuL.encore-text-body-medium-bold.KAq2kDjXj2VS4eXrFL4i {
     background-color: transparent !important;
