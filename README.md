@@ -9,9 +9,9 @@ These themes are optimized to be used with the Chrome Extension [Stylish](https:
 It has not been tested with any other resources.
 
 ## Installation
-Each folder has the CSS code for each website, as well as the HTML link to the website it is used for.
+Each folder has the CSS code for each website, the title being the website it is used for.
 
-In the Editor for [Stylish](https://userstyles.org/), set the domain as the HTML link
+In the Editor for [Stylish](https://userstyles.org/), set the domain as the title of the file
 And paste the CSS Code into the code editor.
 
 ## Optimizations
