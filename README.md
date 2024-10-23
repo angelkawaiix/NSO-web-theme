@@ -17,6 +17,7 @@ And paste the CSS Code into the code editor.
 ## Optimizations
 
 There are currently themes for
-[Spotify](open.spotify.com) (WORK IN PROGRESS)
-[YouTube](www.youtube.com)
-[Google Classroom](classroom.google.com)
+
+ - [Spotify](open.spotify.com) (WORK IN PROGRESS)
+ - [YouTube](www.youtube.com)
+ - [Google Classroom](classroom.google.com)
