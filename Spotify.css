@@ -42,7 +42,7 @@
 }
 
 /*window border over everything*/
-#global-nav-bar, #Desktop_LeftSidebar_Id, .JG5J9NWJkaUO9fiKECMA, .jEMA2gVoLgPQqAFrPhFw, .OTfMDdomT5S7B5dbYTT8, #lyrics-cinema, #component-shelf {
+#global-nav-bar, #Desktop_LeftSidebar_Id, .JG5J9NWJkaUO9fiKECMA, .jEMA2gVoLgPQqAFrPhFw, .OTfMDdomT5S7B5dbYTT8, #lyrics-cinema {
     border-color: #4d21cb;
     border-style: solid;
     border-width: 7px;
@@ -51,6 +51,16 @@
     outline-style: solid;
     margin: 0.1rem;
 }
+
+.C3jVNGQUUZcUp5kTEOC0{
+        border-color: #4d21cb;
+    border-style: solid;
+    border-width: 7px;
+    outline-color: #90f3e1;
+    outline-offset: -5px;
+    outline-style: solid;
+}
+
 
 /*center*/
 .S4OmZ_IZexmZ5dasPqW5{
