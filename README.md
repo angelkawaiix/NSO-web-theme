@@ -21,6 +21,7 @@ Then paste the provided code in the box.
 There are currently themes for
 
 **Spotify** (WORK IN PROGRESS)
+
 https://open.spotify.com/
 ```
 @import url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Spotify.css)
