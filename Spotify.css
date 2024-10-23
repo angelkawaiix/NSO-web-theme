@@ -1,0 +1,239 @@
+﻿@font-face {
+        font-family: "Zpix";
+        src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
+}
+
+
+* {
+        font-family: 'Zpix' !important;
+        border-radius: 0px !important;
+}
+
+
+.encore-dark-theme .encore-bright-accent-set{
+    --background-base: #4d21cb;
+}
+
+
+.nmAHq8nfXRtoQmKU1gaF,
+.pIM9jg__39NIpOvXG89b {
+        content: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/Spotify.png?raw=true) !important;
+        height: 2.2rem;
+        object-fit: contain;
+        padding-left: 2px;
+}
+
+
+.lj0eGI6WEtfxFX7irC03 {
+        max-width: 1200px;
+        min-width: 350px;
+        width: 100%;
+}
+
+
+.jEMA2gVoLgPQqAFrPhFw,
+.T0fKO6B7LQSCE_VaSM1P,
+.S4OmZ_IZexmZ5dasPqW5,
+.KAq2kDjXj2VS4eXrFL4i {
+        background-color: transparent !important;
+}
+
+
+.S4OmZ_IZexmZ5dasPqW5 {
+        background-image: none;
+}
+
+
+[dir=ltr] .b7r2WRiu5f9Q99qmyreh .CVuGEUIxLkNKpMds8AFS {
+        background-color: transparent;
+}
+
+
+.wp7mZFPzV7Qmo51F0NA_ .Dp3xccI7c2f_JSJ8OHYu {
+        background-color: transparent;
+}
+
+
+.bneLcE {
+        fill: #4d21cb;
+}
+
+
+.wp7mZFPzV7Qmo51F0NA_ {
+        grid-area: global-nav;
+        background-color: #f1cfee;
+        margin: 0.1rem;
+        padding: 1rem;
+        position: relative;
+}
+
+
+.dDJltW {
+        visibility: hidden;
+}
+
+
+/*NSO background*/
+#main,
+.ZQftYELq0aOsg6tPbVbV {
+        background-image: url(https://github.com/angelkawaiix/NSO-BetterDiscord/blob/main/Needy_Girl_Overdose_Desktop_BG%20By%20EquiNox_86.png?raw=true);
+        background-attachment: fixed;
+}
+
+
+.GOcsybnoHYyJGQGDRuwj {
+        box-shadow: none;
+}
+
+
+.fIXqki,
+.encore-text-body-small-bold {
+        visibility: hidden
+}
+
+
+.gj5VcIUC9oD2p4BsxzGE {
+        background-color: #f1cfee;
+}
+
+
+.wp7mZFPzV7Qmo51F0NA_ {
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+}
+
+
+/*front page headers*/
+.NXBXbVfJboNI6xdrNIDB,
+.vZSm_8xsDxBqMzp1tqmn {
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+        padding-left: 1rem;
+        padding-bottom: 0.5rem;
+        background-color: #efcfef;
+}
+
+
+.TywOcKZEqNynWecCiATc{
+    --fg-color: #4d21cb;
+    --is-active-fg-color: #fff;
+}
+
+
+.a2NTH51fJWzWsds0OYv_:after {
+    background: none;
+
+
+/*front page content*/
+.Sm3POgzbjs7wFj7tyYNh .pdLDCowVOiUIfeu9hihi {
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        border-top: none;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+        outline-top: none;
+        background-color: #fdf8fd;
+        --encore-cards-margin: 0;
+}
+
+
+.KAZD28usA1vPz5GVpm63.RK45o6dbvO1mb0wQtSwq {
+    color: #4d21cb;
+}
+
+
+.KAZD28usA1vPz5GVpm63.EHxL6K_6WWDlTCZP6x5w:after {
+    background-color: #4d21cb;
+}
+
+
+
+
+/*now playing*/
+.yglmI5m3fCc8baD1Kwdw {
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+        background-color: #efcfef;
+}
+
+
+.encore-dark-theme, .encore-dark-theme .encore-base-set{
+    --text-subdued: #4d21cb;
+    --text-bright-accent: #4d21cb;
+}
+
+
+.QyANtc_r7ff_tqrf5Bvc {
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+}
+
+
+.q8AZzDc_1BumBHZg0tZb {
+        background-color: #efcfef;
+        padding-left: 10px;
+        padding-bottom: 5px;
+        border-bottom-color: #4d21cb;
+        border-bottom-style: solid;
+        border-bottom-width: 7px;
+}
+
+
+a:not([data-encore-id]) {
+        color: #4d21cb;
+        text-decoration: none;
+}
+
+
+.MKCgGhu_c8l6hsVuee46 .Z4InHgCs2uhk0MU93y_a {
+        background-color: #fdf8fd;
+}
+
+
+.MKCgGhu_c8l6hsVuee46 .Z4InHgCs2uhk0MU93y_a {
+        margin-inline: 0px;
+}
+
+
+
+
+.hIFR8WDm_54EEIa1gwpC.fIvMht6B9HdROywMNJZ4:after {
+        background-color: transparent;
+}
+
+
+.mjZrvVI3CxfHJXu7y0Lg {
+        background-color: transparent !important;
+}
+
+
+
+
+.LegacyChipInner__ChipInnerComponent-sc-1qguixk-0 {
+        background-color: #fdf8fd;
+        color: #4d21cb;
+        border-color: #4d21cb;
+        border-style: solid;
+        border-width: 7px;
+        outline-color: #90f3e1;
+        outline-offset: -5px;
+        outline-style: solid;
+}
