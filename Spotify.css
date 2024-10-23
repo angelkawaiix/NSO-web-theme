@@ -3,6 +3,13 @@
 	src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-BetterDiscord/refs/heads/main/zpix.woff2");
 }
 
+* {
+	--purple: #4d21cb;
+	--winhead: #efcfef;
+	--winbody: #fef0ff;
+	--cyan: #90f3e1;
+}
+
 
 * {
 	font-family: 'Zpix' !important;
@@ -23,4 +30,9 @@
     outline-offset: -5px;
     outline-style: solid;
     margin: 0.1rem;
+}
+
+/*global nav bar*/
+.wp7mZFPzV7Qmo51F0NA_{
+background-color: var(--winhead);
 }
