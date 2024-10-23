@@ -265,6 +265,10 @@
     background-color: var(--winhead);
 }
 
+span.encore-text.encore-text-body-small-bold.encore-internal-color-text-base {
+    color: white;
+}
+
 .DZJJ5SCypi2mREbjy5bx, [data-playing-indicator]{
      right: 1px;
 }    
