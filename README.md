@@ -1,5 +1,6 @@
 
 
+
 # Needy Streamer Overload Web Theme
 
 Make certain websites remble the style of the game "Needy Streamer Overload"/"Needy Girl Overdose"
@@ -19,14 +20,25 @@ Then paste the provided code in the box.
 ## Websites
 
 There are currently themes for
+- Spotify (WORK IN PROGRESS)
+- YouTube
+- Google Classroom
 
-**Spotify** (WORK IN PROGRESS)
+### **Spotify** (WORK IN PROGRESS)
 
 https://open.spotify.com/
 ```
 @import url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Spotify.css)
 ```
- - **YouTube**
-	 - www.youtube.com
- - **Google Classroom**
-	 - classroom.google.com
+### **YouTube**
+
+https://www.youtube.com/
+```
+@import  url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/YouTube.css)
+```
+### **Google Classroom**
+
+https://classroom.google.com/
+```
+@import  url(https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/refs/heads/main/Google%20Classroom.css)
+```
