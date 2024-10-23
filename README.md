@@ -23,6 +23,6 @@ Upload your file
 ## Websites
 
 There are currently themes for
-- Spotify (WORK IN PROGRESS)
+- Spotify (WORK IN PROGRESS! Be careful spotify might look weird at times. Might just wanna turn this one off until it's done...)
 - YouTube
 - Google Classroom
