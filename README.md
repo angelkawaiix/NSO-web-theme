@@ -12,7 +12,7 @@ It has not been tested with any other resources.
 
 ## Installation
 
-Download the .json file
+Download the [.json file](https://github.com/angelkawaiix/NSO-web-theme/blob/main/nso-web-theme.json)
 Open the 'Sync' tab after installing the [Stylebot]([https://userstyles.org/](https://stylebot.dev/)) extension
 Select 'Import'
 Upload your file
