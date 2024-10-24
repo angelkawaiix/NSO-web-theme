@@ -571,3 +571,18 @@ background-color: var(--winhead);
 .fYWNdY4zhj4OX_T2Xtg6 .IZq_xBKdh88HLD4QY90X {
     display: none;
 }
+
+.mdMUqcSHFw1lZIcYEblu {
+    background-color: var(--winhead);
+    border-color: #4d21cb;
+    border-style: solid;
+    border-width: 4.5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    box-shadow: none;
+}
+
+.zhQX2DOI2muMo8EKsZ6h {
+    color: var(--purple);
+}
