@@ -610,8 +610,8 @@ background-color: var(--winhead);
 }
 
 .FUYNhisXTCmbzt9IDxnT {
-    --lyrics-color-active: var(--purple);
-    --lyrics-color-passed: rgba(77, 33, 203, 0.5);
-    --lyrics-color-messaging: rgba(77, 33, 203, 0.5);
-    --lyrics-color-inactive: rgba(77, 33, 203, 0.5);
+    --lyrics-color-active: var(--purple) !important;
+    --lyrics-color-passed: rgba(77, 33, 203, 0.5) !important;
+    --lyrics-color-messaging: rgba(77, 33, 203, 0.5)!important;
+    --lyrics-color-inactive: rgba(77, 33, 203, 0.5)!important;
 }
