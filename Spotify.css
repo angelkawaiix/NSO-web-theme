@@ -531,3 +531,26 @@ background-color: var(--winhead);
     display: block;
     margin-inline-end: 12px;
 }
+
+.XTk61Y8OkBdUT6Wj4F6i:hover {
+    background-color: transparent;
+}
+
+.U8wi3gXSb248Imbxy4gc .e1CGifl7UjMqePPNhj5A .XTk61Y8OkBdUT6Wj4F6i.GwVDOOhNp0LMO_SFOqVp, .U8wi3gXSb248Imbxy4gc:hover .M0YO8cIVBxU1lnbzNPeP .XTk61Y8OkBdUT6Wj4F6i.GwVDOOhNp0LMO_SFOqVp, .Yjx8QrpjqgjqQPj4KWCh .e1CGifl7UjMqePPNhj5A .XTk61Y8OkBdUT6Wj4F6i.vzVooVFhdI7BIyM3fq0v, .Yjx8QrpjqgjqQPj4KWCh:hover .M0YO8cIVBxU1lnbzNPeP .XTk61Y8OkBdUT6Wj4F6i.vzVooVFhdI7BIyM3fq0v {
+    cursor: pointer;
+    width: 25px;
+    opacity: 1;
+    pointer-events: auto;
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/pager_next.png?raw=true);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.XTk61Y8OkBdUT6Wj4F6i {
+    background-color: transparent;
+}
+
+.XTk61Y8OkBdUT6Wj4F6i>* {
+    display: none;
+}
