@@ -504,17 +504,13 @@ background-color: var(--winhead);
 
 .XNFZdOLgMlx491fEWdYJ {
     margin-top: 4px;
-    display: none;
-    background-color: transparent;
-}
-
-.XNFZdOLgMlx491fEWdYJ::after {
-    display: contents;
+    display: inline;
     width: 20px;
     height: 20px;
     background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/button_close.png?raw=true) !important;
     background-size: contain;
     background-repeat: no-repeat;
+    
 }
 
 .XNFZdOLgMlx491fEWdYJ:focus, .XNFZdOLgMlx491fEWdYJ:hover{
