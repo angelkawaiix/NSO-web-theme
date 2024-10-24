@@ -493,3 +493,30 @@ background-color: var(--winhead);
     background-color: var(--winhead);
     box-shadow: none;
 }
+
+.IkRGajTjItEFQkRMeH6v {
+    --text-subdued: var(--purple);
+}
+
+.vreceNX3ABcxyddeS83B, .RHRitk6QC3rvuG24RAdj{
+    box-shadow: none;
+}
+
+.XNFZdOLgMlx491fEWdYJ {
+    margin-top: 4px;
+    display: none;
+    background-color: transparent;
+}
+
+.XNFZdOLgMlx491fEWdYJ::after {
+    display: contents;
+    width: 20px;
+    height: 20px;
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/button_close.png?raw=true) !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.XNFZdOLgMlx491fEWdYJ:focus, .XNFZdOLgMlx491fEWdYJ:hover{
+    background-color: transparent;
+}
