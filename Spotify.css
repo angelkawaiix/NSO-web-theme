@@ -573,6 +573,27 @@ background-color: var(--winhead);
     display: none;
 }
 
+.Z35BWOA10YGn5uc9YgAp .Tzzq1pG_inwo_oSOdyjb .EzRmGRncgnv1zFgF4dqE {
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    word-break: break-word;
+    color: var(--purple);
+}
+
+.U8wi3gXSb248Imbxy4gc .a2NTH51fJWzWsds0OYv_:after, .Yjx8QrpjqgjqQPj4KWCh .a2NTH51fJWzWsds0OYv_:before {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.o4GE4jG5_QICak2JK_bn {
+    background-color: var(--winbody);
+}
+
 .mdMUqcSHFw1lZIcYEblu {
     background-color: var(--winhead);
     border-color: #4d21cb;
@@ -586,4 +607,11 @@ background-color: var(--winhead);
 
 .zhQX2DOI2muMo8EKsZ6h {
     color: var(--purple);
+}
+
+.FUYNhisXTCmbzt9IDxnT {
+    --lyrics-color-active: var(--purple);
+    --lyrics-color-passed: rgba(77, 33, 203, 0.5);
+    --lyrics-color-messaging: rgba(77, 33, 203, 0.5);
+    --lyrics-color-inactive: rgba(77, 33, 203, 0.5);
 }
