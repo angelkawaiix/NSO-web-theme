@@ -516,3 +516,18 @@ background-color: var(--winhead);
 .XNFZdOLgMlx491fEWdYJ:focus, .XNFZdOLgMlx491fEWdYJ:hover{
     background-color: transparent;
 }
+
+.bneLcE {
+    display: none;
+}
+
+.jEDcnm {
+    margin-left: -10px;
+    width: 30px;
+    height: 30px;
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_desktop_folder_open2.png?raw=true) !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    margin-inline-end: 12px;
+}
