@@ -541,10 +541,11 @@ background-color: var(--winhead);
     width: 25px;
     opacity: 1;
     pointer-events: auto;
-    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/pager_next.png?raw=true);
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_window_daypass_tablet.png?raw=true);
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
+    margin-top: 5px;
 }
 
 .XTk61Y8OkBdUT6Wj4F6i {
