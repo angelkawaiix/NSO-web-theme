@@ -729,3 +729,79 @@ span.Type__TypeElement-sc-goli3j-0.dOtTDl.ellipsis-one-line {
 .spotifyinternal-artistnpv .npv-background-image__overlay {
     background-color: rgba(254, 240, 255, 0.7);
 }
+
+.QyANtc_r7ff_tqrf5Bvc{
+    background-color: var(--winbody) !important;
+    border-color: #4B20CA;
+    border-style: solid;
+    border-width: 7px;
+    outline-color: #90f3e1;
+    outline-offset: -5px;
+    outline-style: solid;
+    padding: 1rem;
+}
+
+a.Gi6Lr1whYBA2jutvHvjQ {
+    color: var(--purple);
+}
+
+.i6jA7UnVNDJFGlAgtutp a {
+    color: var(--purple);
+}
+
+.mXNT9H2GU7lDW4cGx0q1 {
+    background: transparent;
+}
+
+.mXNT9H2GU7lDW4cGx0q1:hover {
+    background: transparent;
+}
+
+.qZH56jw74skju8uLzuF3 a {
+    color: var(--purple);
+}
+
+.ib6ClWIXW5DmWXaC0W08 {
+    background-color: var(--winbody) !important;
+    border-color: #4B20CA;
+    border-style: solid;
+    border-width: 7px;
+    outline-color: #90f3e1;
+    outline-offset: -5px;
+    outline-style: solid;
+    padding: 1rem;
+    position: relative;
+}
+
+.iJUiBm {
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_desktop_medication.png?raw=true);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    height: 30px;
+    width: 30px;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    border: 0px;
+    border-radius: var(--encore-button-corner-radius, 9999px);
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    touch-action: manipulation;
+    transition-duration: 33ms;
+    transition-property: background-color, border-color, color, box-shadow, filter, transform;
+    user-select: none;
+    vertical-align: middle;
+    transform: translate3d(0px, 0px, 0px);
+    padding: 0px;
+    min-inline-size: 0px;
+    align-self: center;
+}
+
+span.IconWrapper__Wrapper-sc-1hf1hjl-0.bMBuKn {
+    display: none;
+}
