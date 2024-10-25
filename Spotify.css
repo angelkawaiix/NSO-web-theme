@@ -340,7 +340,7 @@ background-color: var(--winhead);}
     object-fit: contain;
     height: 20px !important;
     width: 20px !important;
-    content: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/Badge.png?raw=true);
+    content: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/exclaimation.png?raw=true);
     position: absolute;
 }
 
@@ -524,7 +524,7 @@ background-color: var(--winhead);
     margin-left: -10px;
     width: 30px;
     height: 30px;
-    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_desktop_folder_open2.png?raw=true) !important;
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_desktop_folder.png?raw=true) !important;
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
@@ -540,7 +540,7 @@ background-color: var(--winhead);
     width: 25px;
     opacity: 1;
     pointer-events: auto;
-    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_window_daypass_tablet.png?raw=true);
+    background-image: url(https://github.com/angelkawaiix/NSO-web-theme/blob/main/resources/icon_window_pilldepaz.png?raw=true);
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
@@ -641,4 +641,8 @@ background-color: var(--winhead);
 .facDIsOQo9q7kiWc4jSg {
     margin: 0.4rem;
     width: -webkit-fill-available;
+}
+
+[data-testid="context-item-link"] {
+    color: var(--purple) !important;
 }
