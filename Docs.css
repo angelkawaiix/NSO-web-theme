@@ -1,1 +1,32 @@
 
+@font-face {
+	font-family: "Zpix";
+	src: url("https://raw.githubusercontent.com/angelkawaiix/NSO-web-theme/main/resources/zpix.woff2");
+}
+
+* {
+	--purple: #4d21cb;
+	--winhead: #efcfef;
+	--winbody: #fef0ff;
+	--cyan: #90f3e1;
+        --lyrics-color-active: var(--purple) !important;
+    --lyrics-color-passed: rgba(77, 33, 203, 0.5) !important;
+    --lyrics-color-messaging: rgba(77, 33, 203, 0.5)!important;
+    --lyrics-color-inactive: rgba(77, 33, 203, 0.5)!important;
+}
+
+* {
+	border-radius: 0px !important;
+}
+
+#docs-chrome {
+    background: #fff;
+    outline: none;
+    border-color: #4d21cb;
+    border-style: solid;
+    border-width: 7px;
+    outline-color: #90f3e1;
+    outline-offset: -5px;
+    outline-style: solid;
+    background-color: var(--winbody);
+}
