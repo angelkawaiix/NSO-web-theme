@@ -10,7 +10,11 @@
     font-family: 'Zpix' !important;
         color: #4d21cb !important;
         border-radius: 0px !important;
-    overflow-x: hidden;
+ 
+}
+
+body{
+       overflow-x: hidden;
 }
 
 
