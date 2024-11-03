@@ -17,6 +17,10 @@ body{
        overflow-x: hidden;
 }
 
+ytd-app[scrolling] {
+    overflow-x: hidden;
+}
+
 
 ytd-comments {
     display: block;
